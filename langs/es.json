@@ -1,0 +1,57 @@
+{
+  "meta": { "title": "Guillermo Perez | Portafolio" },
+  "nav": {
+    "experiencia": "Experiencia",
+    "proyectos": "Proyectos",
+    "habilidades": "Habilidades",
+    "contacto": "Contacto"
+  },
+  "hero": {
+    "nombre": "Guillermo Perez",
+    "titulo": "Técnico en informática en formación",
+    "frase": "Desarrollador full-stack (web, software, videojuegos), administrador de redes.",
+    "cv": "Descargar CV"
+  },
+  "exp": {
+    "titulo": "Experiencia",
+    "pikkado": {
+      "puesto": "Desarrollador Web en Pikkado (pasantía)",
+      "fechas": "Julio 2026 a agosto 2026",
+      "item1": "Prueba y contribución al desarrollo de un sistema de soporte IT automatizado con IA, alojado en AWS."
+    },
+    "cegep": {
+      "puesto": "Técnico en informática en formación en el CEGEP de La Pocatière",
+      "fechas": "Desde 2024",
+      "item1": "Diseño, construcción y prueba de sitios web para proyectos de curso.",
+      "item2": "Configuración y prueba de redes locales para laboratorios de cómputo.",
+      "item3": "Colaboración en equipo en proyectos de programación y redes.",
+      "item4": "Gestión y consulta de bases de datos (SQL Server) para proyectos de curso."
+    }
+  },
+  "proy": {
+    "titulo": "Proyectos",
+    "cineapp": {
+      "desc": "Django + API .NET 8. Catálogo, salas, compra de billetes de extremo a extremo, correo transaccional. En vivo."
+    }
+  },
+  "theme": { "dark": "Tema oscuro", "light": "Tema claro" },
+  "skills": {
+    "titulo": "Habilidades",
+    "programmation": "Programación",
+    "web": "Desarrollo web",
+    "donnees": "Datos",
+    "reseaux": "Redes",
+    "os": "Sistemas operativos",
+    "virtualisation": "Virtualización",
+    "conteneurisation": "Contenedorización",
+    "serveurs": "Servidores",
+    "conception": "Diseño y análisis",
+    "jeux": "Desarrollo de videojuegos 2D y 3D",
+    "outils": "Herramientas",
+    "langues": "Idiomas",
+    "lang_fr": "Francés",
+    "lang_en": "Inglés",
+    "lang_es": "Español"
+  },
+  "contacto": { "titulo": "Contacto" }
+}

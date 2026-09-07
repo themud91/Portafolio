@@ -1,0 +1,57 @@
+{
+  "meta": { "title": "Guillermo Perez | Portfolio" },
+  "nav": {
+    "experiencia": "Experience",
+    "proyectos": "Projects",
+    "habilidades": "Skills",
+    "contacto": "Contact"
+  },
+  "hero": {
+    "nombre": "Guillermo Perez",
+    "titulo": "IT Technician in Training",
+    "frase": "Full-stack developer (web, software, games), network administrator.",
+    "cv": "Download CV"
+  },
+  "exp": {
+    "titulo": "Experience",
+    "pikkado": {
+      "puesto": "Web Developer at Pikkado (internship)",
+      "fechas": "July 2026 to August 2026",
+      "item1": "Tested and contributed to an AI-automated IT support system hosted on AWS."
+    },
+    "cegep": {
+      "puesto": "IT Technician in Training at CEGEP de La Pocatière",
+      "fechas": "Since 2024",
+      "item1": "Designed, built, and tested websites for course projects.",
+      "item2": "Configured and tested local networks for computer labs.",
+      "item3": "Collaborated with teams on programming and networking projects.",
+      "item4": "Managed and queried databases (SQL Server) for course projects."
+    }
+  },
+  "proy": {
+    "titulo": "Projects",
+    "cineapp": {
+      "desc": "Django + .NET 8 API. Catalog, theaters, end-to-end ticket purchase, transactional email. Live."
+    }
+  },
+  "theme": { "dark": "Dark theme", "light": "Light theme" },
+  "skills": {
+    "titulo": "Skills",
+    "programmation": "Programming",
+    "web": "Web development",
+    "donnees": "Data",
+    "reseaux": "Networking",
+    "os": "Operating systems",
+    "virtualisation": "Virtualization",
+    "conteneurisation": "Containerization",
+    "serveurs": "Servers",
+    "conception": "Design and analysis",
+    "jeux": "2D and 3D game development",
+    "outils": "Tools",
+    "langues": "Languages",
+    "lang_fr": "French",
+    "lang_en": "English",
+    "lang_es": "Spanish"
+  },
+  "contacto": { "titulo": "Contact" }
+}

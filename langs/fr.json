@@ -1,0 +1,57 @@
+{
+  "meta": { "title": "Guillermo Perez | Portfolio" },
+  "nav": {
+    "experiencia": "Expérience",
+    "proyectos": "Projets",
+    "habilidades": "Compétences",
+    "contacto": "Contact"
+  },
+  "hero": {
+    "nombre": "Guillermo Perez",
+    "titulo": "Technicien en informatique en formation",
+    "frase": "Développeur full-stack (web, logiciel, jeux vidéo), administrateur réseau.",
+    "cv": "Télécharger le CV"
+  },
+  "exp": {
+    "titulo": "Expérience",
+    "pikkado": {
+      "puesto": "Développeur Web chez Pikkado (stage)",
+      "fechas": "Juillet 2026 à août 2026",
+      "item1": "Test et contribution au développement d'un système de support IT automatisé par IA, hébergé sur AWS."
+    },
+    "cegep": {
+      "puesto": "Technicien en informatique en formation au CEGEP de La Pocatière",
+      "fechas": "Depuis 2024",
+      "item1": "Conception, développement et test de sites web pour des projets de cours.",
+      "item2": "Configuration et test de réseaux locaux pour des laboratoires informatiques.",
+      "item3": "Collaboration en équipe sur des projets de programmation et de réseautique.",
+      "item4": "Gestion et interrogation de bases de données (SQL Server) pour des projets de cours."
+    }
+  },
+  "proy": {
+    "titulo": "Projets",
+    "cineapp": {
+      "desc": "Django + API .NET 8. Catalogue, salles, achat de billets de bout en bout, e-mail transactionnel. En ligne."
+    }
+  },
+  "theme": { "dark": "Thème sombre", "light": "Thème clair" },
+  "skills": {
+    "titulo": "Compétences",
+    "programmation": "Programmation",
+    "web": "Développement web",
+    "donnees": "Données",
+    "reseaux": "Réseautique",
+    "os": "Systèmes d'exploitation",
+    "virtualisation": "Virtualisation",
+    "conteneurisation": "Conteneurisation",
+    "serveurs": "Serveurs",
+    "conception": "Conception et analyse",
+    "jeux": "Développement de jeux vidéo 2D et 3D",
+    "outils": "Outils",
+    "langues": "Langues",
+    "lang_fr": "Français",
+    "lang_en": "Anglais",
+    "lang_es": "Espagnol"
+  },
+  "contacto": { "titulo": "Contact" }
+}

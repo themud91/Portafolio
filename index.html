@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="meta.title">Guillermo Perez | Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="logo">DEV<span>_</span></div>
+    <nav>
+      <a href="#experiencia" data-i18n="nav.experiencia">Expérience</a>
+      <a href="#proyectos" data-i18n="nav.proyectos">Projets</a>
+      <a href="#habilidades" data-i18n="nav.habilidades">Compétences</a>
+      <a href="#contacto" data-i18n="nav.contacto">Contact</a>
+    </nav>
+    <div class="controls">
+      <select id="lang-switch" aria-label="Langue">
+        <option value="fr">FR</option>
+        <option value="en">EN</option>
+        <option value="es">ES</option>
+      </select>
+      <button id="theme-toggle" data-i18n="theme.dark">Thème sombre</button>
+      <button id="menu-toggle" aria-label="Menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <section id="hero" class="reveal">
+      <div class="hero-top">
+        <img class="profile-photo" src="assets/photo.jpg" alt="Guillermo Perez">
+        <h1 data-i18n="hero.nombre">Guillermo Perez</h1>
+      </div>
+      <p class="subtitle" data-i18n="hero.titulo">Technicien en informatique en formation</p>
+      <p class="tagline" data-i18n="hero.frase">Développeur full-stack (web, logiciel, jeux vidéo), gestionnaire de réseaux.</p>
+      <a class="cv-btn" href="assets/CV.pdf" download data-i18n="hero.cv">Télécharger le CV</a>
+    </section>
+
+    <section id="experiencia" class="reveal">
+      <h2 data-i18n="exp.titulo">Expérience</h2>
+
+      <article class="exp-item">
+        <h3 data-i18n="exp.pikkado.puesto">Développeur Web chez Pikkado (stage)</h3>
+        <p class="exp-meta" data-i18n="exp.pikkado.fechas">Juillet 2026 à Août 2026</p>
+        <ul>
+          <li data-i18n="exp.pikkado.item1">Test et contribution au développement d'un système de support IT automatisé par IA, hébergé sur AWS.</li>
+        </ul>
+      </article>
+
+      <article class="exp-item">
+        <h3 data-i18n="exp.cegep.puesto">Technicien en informatique en formation au CEGEP de La Pocatière</h3>
+        <p class="exp-meta" data-i18n="exp.cegep.fechas">Depuis 2024</p>
+        <ul>
+          <li data-i18n="exp.cegep.item1">Conception, développement et test de sites web pour des projets de cours.</li>
+          <li data-i18n="exp.cegep.item2">Configuration et test de réseaux locaux pour des laboratoires informatiques.</li>
+          <li data-i18n="exp.cegep.item3">Collaboration en équipe sur des projets de programmation et de réseautique.</li>
+          <li data-i18n="exp.cegep.item4">Gestion et interrogation de bases de données (SQL Server) pour des projets de cours.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section id="proyectos" class="reveal">
+      <h2 data-i18n="proy.titulo">Projets</h2>
+      <article class="project-card featured">
+        <h3>CineApp</h3>
+        <p data-i18n="proy.cineapp.desc">Django + API .NET 8. Catalogue, salles, achat de billets de bout en bout, e-mail transactionnel. En ligne.</p>
+        <div class="project-links">
+          <a href="https://cineapp-cmad.onrender.com" target="_blank" rel="noopener">Demo</a>
+          <a href="https://github.com/themud91/cineApp" target="_blank" rel="noopener">GitHub</a>
+        </div>
+      </article>
+    </section>
+
+    <section id="habilidades" class="reveal">
+      <h2 data-i18n="skills.titulo">Compétences</h2>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.programmation">Programmation</h3>
+        <ul class="skills-list">
+          <li>C#</li>
+          <li>Python</li>
+          <li>JavaScript</li>
+          <li>JSX</li>
+          <li>Dart</li>
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.web">Développement web</h3>
+        <ul class="skills-list">
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Bootstrap</li>
+          <li>Sass</li>
+          <li>DOM</li>
+          <li>API</li>
+          <li>Django</li>
+          <li>React</li>
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.donnees">Données</h3>
+        <ul class="skills-list">
+          <li>SQL</li>
+          <li>SQL Server</li>
+          <li>MongoDB</li>
+          <li>Pandas</li>
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.reseaux">Réseautique</h3>
+        <ul class="skills-list">
+          <li>Cisco</li>
+          <li>TCP/IP</li>
+          <li>VLAN</li>
+          <li>Cybersec</li>
+
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.os">Systèmes d'exploitation</h3>
+        <ul class="skills-list">
+          <li>Windows</li>
+          <li>Linux</li>
+          <li>macOS</li>
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.virtualisation">Virtualisation</h3>
+        <ul class="skills-list">
+          <li>VMware</li>
+          <li>VirtualBox</li>
+          <li>Hyper-V</li>
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.conteneurisation">Conteneurisation</h3>
+        <ul class="skills-list">
+          <li>Docker</li>
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.serveurs">Serveurs</h3>
+        <ul class="skills-list">
+          <li>Windows Server</li>
+          <li>Apache</li>
+          <li>Nginx</li>
+          <li>Render</li>
+          <li>AWS</li>
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.conception">Conception et analyse</h3>
+        <ul class="skills-list">
+          <li>Analyse préliminaire</li>
+          <li>Diagramme de cas d'utilisation</li>
+          <li>Diagramme de classes</li>
+          <li>Diagramme de séquence</li>
+          <li>Conception détaillée</li>
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.jeux">Jeux vidéo 2D et 3D</h3>
+        <ul class="skills-list">
+          <li>Unity</li>
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.outils">Outils</h3>
+        <ul class="skills-list">
+          <li>Git</li>
+          <li>GitHub</li>
+          <li>GIMP</li>
+          <li>Microsoft Office</li>
+          <li>Microsoft Teams</li>
+          <li>Slack</li>
+          <li>Google Meet</li>
+          <li>Discord</li>
+          <li>Zoom</li>
+          <li>Jira</li>
+          <li>AI</li>
+        </ul>
+      </div>
+
+      <div class="skills-group">
+        <h3 data-i18n="skills.langues">Langues</h3>
+        <ul class="skills-list">
+          <li data-i18n="skills.lang_fr">Français</li>
+          <li data-i18n="skills.lang_en">Anglais</li>
+          <li data-i18n="skills.lang_es">Espagnol</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="contacto" class="reveal">
+      <h2 data-i18n="contacto.titulo">Contact</h2>
+      <a href="mailto:gephdw91@gmail.com">gephdw91@gmail.com</a>
+      <a href="https://www.linkedin.com/in/guillermo-perez-1739a73a7/" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://github.com/themud91" target="_blank" rel="noopener">GitHub</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
