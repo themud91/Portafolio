@@ -32,6 +32,9 @@
     "titulo": "Projets",
     "cineapp": {
       "desc": "Django + API .NET 8. Catalogue, salles, achat de billets de bout en bout, e-mail transactionnel. En ligne."
+    },
+    "digitalsafety": {
+      "desc": "Guide de sensibilisation à la cybersécurité : empreinte numérique, confidentialité sur les réseaux sociaux, mots de passe. Projet de cours d'anglais."
     }
   },
   "theme": { "dark": "Thème sombre", "light": "Thème clair" },

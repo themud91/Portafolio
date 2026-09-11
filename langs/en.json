@@ -32,6 +32,9 @@
     "titulo": "Projects",
     "cineapp": {
       "desc": "Django + .NET 8 API. Catalog, theaters, end-to-end ticket purchase, transactional email. Live."
+    },
+    "digitalsafety": {
+      "desc": "Cybersecurity awareness guide: digital footprint, social media privacy, passwords. English course project."
     }
   },
   "theme": { "dark": "Dark theme", "light": "Light theme" },
