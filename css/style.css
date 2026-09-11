@@ -72,6 +72,12 @@ h3 {
 
 .logo span {
   color: var(--accent);
+  animation: blink-cursor 1s step-end infinite;
+}
+
+@keyframes blink-cursor {
+  0%, 50% { opacity: 1; }
+  50.01%, 100% { opacity: 0; }
 }
 
 .site-header nav {
