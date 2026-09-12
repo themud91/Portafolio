@@ -8,7 +8,7 @@
   },
   "hero": {
     "nombre": "Guillermo Perez",
-    "titulo": "Técnico en informática en formación",
+    "titulo": "DEC en informática en formación",
     "frase": "Desarrollador full-stack (web, software, videojuegos), administrador de redes.",
     "cv": "Descargar CV"
   },
@@ -20,7 +20,7 @@
       "item1": "Prueba y contribución al desarrollo de un sistema de soporte IT automatizado con IA, alojado en AWS."
     },
     "cegep": {
-      "puesto": "Técnico en informática en formación en el CEGEP de La Pocatière",
+      "puesto": "DEC en informática en formación en el CEGEP de La Pocatière",
       "fechas": "Desde 2024",
       "item1": "Diseño, construcción y prueba de sitios web para proyectos de curso.",
       "item2": "Configuración y prueba de redes locales para laboratorios de cómputo.",
