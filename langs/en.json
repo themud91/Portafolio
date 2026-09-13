@@ -56,5 +56,10 @@
     "lang_en": "English",
     "lang_es": "Spanish"
   },
-  "contacto": { "titulo": "Contact" }
+  "contacto": { "titulo": "Contact" },
+  "intereses": {
+    "titulo": "Other interests",
+    "parrafo": "I have more than 20 years of experience in music. In 2020, during the pandemic, I decided to start a solo project, recording every instrument on these tracks myself.",
+    "link": "View Bandcamp profile"
+  }
 }

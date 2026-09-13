@@ -56,5 +56,10 @@
     "lang_en": "Inglés",
     "lang_es": "Español"
   },
-  "contacto": { "titulo": "Contacto" }
+  "contacto": { "titulo": "Contacto" },
+  "intereses": {
+    "titulo": "Otros intereses",
+    "parrafo": "Tengo más de 20 años de trayectoria musical y estudios de teoría y solfeo. En 2020, durante la pandemia, decidí hacer un proyecto solista: grabé yo mismo todos los instrumentos de estas pistas.",
+    "link": "Ver perfil en Bandcamp"
+  }
 }
