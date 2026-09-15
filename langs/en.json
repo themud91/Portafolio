@@ -35,6 +35,9 @@
     },
     "digitalsafety": {
       "desc": "Cybersecurity awareness guide: digital footprint, social media privacy, passwords."
+    },
+    "pacmonk": {
+      "desc": "Pac-Man style game in vanilla JavaScript, rewritten with ES6 classes and inheritance from the original mumuy/pacman engine."
     }
   },
   "theme": { "dark": "Dark theme", "light": "Light theme" },

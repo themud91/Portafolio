@@ -35,6 +35,9 @@
     },
     "digitalsafety": {
       "desc": "Guide de sensibilisation à la cybersécurité : empreinte numérique, confidentialité sur les réseaux sociaux, mots de passe."
+    },
+    "pacmonk": {
+      "desc": "Jeu type Pac-Man en JavaScript vanilla, reecrit avec des classes ES6 et de l'heritage a partir du moteur original de mumuy/pacman."
     }
   },
   "theme": { "dark": "Thème sombre", "light": "Thème clair" },

@@ -35,6 +35,9 @@
     },
     "digitalsafety": {
       "desc": "Guía de concienciación en ciberseguridad: huella digital, privacidad en redes sociales, contraseñas."
+    },
+    "pacmonk": {
+      "desc": "Juego tipo Pac-Man en JavaScript vanilla, reescrito con clases ES6 y herencia a partir del motor original de mumuy/pacman."
     }
   },
   "theme": { "dark": "Tema oscuro", "light": "Tema claro" },
