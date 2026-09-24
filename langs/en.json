@@ -38,6 +38,9 @@
     },
     "pacmonk": {
       "desc": "Pac-Man style game in vanilla JavaScript, rewritten with ES6 classes and inheritance from the original mumuy/pacman engine."
+    },
+    "flyconnectome": {
+      "desc": "Interactive 3D visualizer of the fruit fly's real connectome, built from public data from the FlyWire project (Janelia/Google DeepMind/Cambridge). A Three.js exploration project, no AI training involved."
     }
   },
   "theme": { "dark": "Dark theme", "light": "Light theme" },

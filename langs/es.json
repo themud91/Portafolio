@@ -38,6 +38,9 @@
     },
     "pacmonk": {
       "desc": "Juego tipo Pac-Man en JavaScript vanilla, reescrito con clases ES6 y herencia a partir del motor original de mumuy/pacman."
+    },
+    "flyconnectome": {
+      "desc": "Visualizador 3D interactivo del connectoma real de la mosca de la fruta, a partir de datos públicos del proyecto FlyWire (Janelia/Google DeepMind/Cambridge). Proyecto de exploración de Three.js, sin entrenamiento de IA."
     }
   },
   "theme": { "dark": "Tema oscuro", "light": "Tema claro" },
