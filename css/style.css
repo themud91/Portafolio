@@ -254,6 +254,17 @@ section h2 {
   border-color: var(--accent);
 }
 
+/* Bouton desactive : meme forme que les liens, sans clic ni survol */
+.project-links .link-disabled {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
 /* ---------- Skills ---------- */
 .skills-group {
   margin-bottom: 2rem;

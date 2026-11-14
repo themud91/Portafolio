@@ -34,7 +34,8 @@
       "desc": "Django + API .NET 8. Catálogo, salas, compra de billetes de extremo a extremo, correo transaccional. En vivo."
     },
     "portailformations": {
-      "desc": "Portal de formaciones de un colegio en Next.js (React 19, App Router). Prisma 7 y PostgreSQL alojado en Supabase, CRUD completo de formaciones y estudiantes, Tailwind CSS. Desplegado en Vercel."
+      "desc": "Portal de formaciones de un colegio en Next.js (React 19, App Router). Prisma 7 y PostgreSQL alojado en Supabase, CRUD completo de formaciones y estudiantes, Tailwind CSS. Desplegado en Vercel.",
+      "demo": "Demo no disponible públicamente"
     },
     "digitalsafety": {
       "desc": "Guía de concienciación en ciberseguridad: huella digital, privacidad en redes sociales, contraseñas."
